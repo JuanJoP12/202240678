@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Juan Jose Pastás Osorio
 202240678
 Metodologias de desarrollo de software
